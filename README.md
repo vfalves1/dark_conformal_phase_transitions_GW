@@ -11,4 +11,4 @@ We investigate the dynamics of first-order phase transitions (FOPTs) in a classi
 [PDF](./Gravitational_Waves_from_Supercooled_Dark_Conformal_Phase_Transitions.pdf)
 
 **Official Certificate:**  
-[PDF](./Certificate.pdf)
+[Certificate](./Certificate.pdf)
